@@ -24,7 +24,7 @@ or manually:
 ```
 docker build -t receipt-app
 ```
-to build the container without Make
+
 
 
 
