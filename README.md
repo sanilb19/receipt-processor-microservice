@@ -11,7 +11,7 @@ git clone git@github.com:pathogen77/fetch-receipt-processor.git
 ```
 echo "PORT=8000" > .env
 ```
-_you may set any available port number here_
+_you may set any available port number here, 8000 as default_
 
 
 
