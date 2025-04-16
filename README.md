@@ -30,7 +30,7 @@ docker build -t receipt-app
 
 4. Run the container with
 ```
-make build
+make run
 ```
 or manually:
 ```
