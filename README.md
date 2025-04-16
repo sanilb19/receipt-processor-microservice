@@ -45,6 +45,8 @@ docker run -d -p $(PORT):$(PORT) -e PORT=$(PORT) --name receipt-container receip
 
 6. (optional) run ```make test``` or ```pytest /tests``` in local terminal to run basic end-to-end tests
 
+7. Run ``` make clean ``` to destroy the container and service
+
 
 
 
