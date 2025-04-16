@@ -39,7 +39,7 @@ docker run -d -p $(PORT):$(PORT) -e PORT=$(PORT) --name receipt-container receip
 
 
 
-5. Navigate to http://localhost:8000 (or whichever port number was chosen in step 2) to see the swagger API UI
+5. Navigate to http://localhost:8000 (using the same port number as chosen in step 2) to see the swagger API UI
 
   
 
