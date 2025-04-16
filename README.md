@@ -43,7 +43,7 @@ docker run -d -p $(PORT):$(PORT) -e PORT=$(PORT) --name receipt-container receip
 
   
 
-6. (optional) run make test (pytest /tests) in local terminal to run basic end-to-end tests
+6. (optional) run ```make test``` or ```pytest /tests``` in local terminal to run basic end-to-end tests
 
 
 
