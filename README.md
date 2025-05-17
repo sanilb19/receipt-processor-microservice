@@ -2,7 +2,7 @@
 
 1. Clone git repo with:
 ```
-git clone git@github.com:pathogen77/fetch-receipt-processor.git
+git clone git@github.com:sanilb19/fetch-receipt-processor.git
 ```
 
 
