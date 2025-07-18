@@ -1,3 +1,5 @@
+*Challenge Instructions given at: https://github.com/sanilb19/receipt-processor-challenge*
+
 # Instructions to run:
 
 1. Clone git repo with:
